@@ -1,0 +1,18 @@
+{
+  "id": "sensor_001",
+  "ubicacion": {
+    "latitud": -34.6037,
+    "longitud": -58.3816,
+    "altitud": 25.4
+  },
+  "temperatura": 22.5,
+  "humedad": 65.2,
+  "presion": 1013.25,
+  "co2": 420,
+  "voc": 0.35,
+  "luminosidad": 300,
+  "nivel_ruido": 45.6,
+  "bateria": 87,
+  "estado": "activo",
+  "fecha_ultimo_reporte": "2025-03-26T14:30:00Z"
+}
